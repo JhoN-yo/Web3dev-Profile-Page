@@ -1,10 +1,12 @@
 **⚠️This project is in development**
 
-Developing [Web3dev](https://www.web3dev.com.br/) landing page to register Builders to job proposals
+Developing [Web3dev](https://www.web3dev.com.br/) landing page to register Builders to job proposals.
 
+This is my first project using [NextUI](https://nextui.org/) and i love this Lib.
 
 ### Next Steps : 
 
+- [ ] Refactor based in best ways to use the NextUI libary
 - [ ] Improve responsiveness
 - [ ] Create a backend
 - [ ] More Pages
