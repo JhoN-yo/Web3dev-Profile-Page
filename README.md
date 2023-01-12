@@ -4,10 +4,11 @@ Developing [Web3dev](https://www.web3dev.com.br/) landing page to register Build
 
 This is my first project using [NextUI](https://nextui.org/) and i love this Lib.
 
-[Deploy on Vercel](web3dev-profile-page.vercel.app)
+[Deploy on Vercel](https://web3dev-profile-page.vercel.app/)
 
 ### Next Steps : 
 
+- [ ] Change copy 
 - [ ] Refactor based in best ways to use the NextUI libary
 - [ ] Improve responsiveness
 - [ ] Create a backend
